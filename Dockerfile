@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM debian:stretch-slim
 MAINTAINER pivotal
 
 SHELL ["/bin/bash", "-c"]
